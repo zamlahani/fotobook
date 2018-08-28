@@ -1,6 +1,8 @@
 # Fotobook
 Fotobook Wordpress Theme based on Understrap with the design of [Photobook](https://drive.google.com/file/d/0B6LRbbhMgCSzVUw0RFlhQTJiZjA/view) from Asanov
 
+See the demo [here](https://demo.zamlahani.com/fotobook/)
+
 ## How to install
 - download this repository
 - copy the .zip file you downloaded to the **/wp-content/themes/** folder
