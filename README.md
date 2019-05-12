@@ -21,4 +21,4 @@ See the demo [here](https://demo.zamlahani.com/fotobook/)
 - set Homepage and select **Home**
 - click Publish
 
-If you have any problems or you need me to craft a **Wordpress Theme**, contact me at zamlahani@gmail.com or kus@zamlahani.com
+If you have any problems or you need me to craft a **Wordpress Theme**, contact me at zamlahani@gmail.com
